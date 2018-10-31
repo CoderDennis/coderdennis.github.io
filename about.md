@@ -10,4 +10,4 @@ I'm the founding organizer of [Dallas Functional Programmers](http://dallasfp.co
 
 Opinions expressed here are my own.
 
-A few older posts can be found at [blog.dennispalmer.com](http://blog.dennispalmer.com).
+A few older posts can be found at [blog.dennispalmer.com](https://blog.dennispalmer.com).
