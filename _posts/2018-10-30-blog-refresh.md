@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blog Refresh
+tags: [blogging]
 ---
 
 My previous blog was [blog.dennispalmer.com](https://blog.dennispalmer.com), but it's been over 4 years since I last posted anything there.
